@@ -29,7 +29,7 @@ public class LmsApplication {
             }
             if (studentRepository.count() == 0) {
                 studentRepository.save(Student.builder()
-                        .email("pikachu@example.com").fullName("pikachu").build());
+                        .email("mr.talhahtahir@gmail.com").fullName("Talha Tahir").build());
             }
         };
     }
