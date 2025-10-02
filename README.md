@@ -14,7 +14,7 @@ How to RUN
 5. Browse this link after running: http://localhost:8080/enroll
 6. Enter details
      1. card number: 4242424242424242 (Demo visa card for testing)
-     2. random CVC (3 digits)
+     2. random CVC (3 digits e.g. 313)
      3. Card Expiry (Obviously a future date🙂)
-     4. A 5-digit postal code
+     4. A 5-digit postal code (43241)
 
