@@ -20,3 +20,9 @@ How to RUN
      4. A 5-digit postal code (43241)
    
 
+make it a learning project
+explain concepts, ideas
+challenges I faced
+my progress
+what were the new things in it
+
